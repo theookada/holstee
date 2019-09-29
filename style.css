@@ -1,0 +1,79 @@
+/*- Google Fonts
+	font-family: 'Manjari', sans-serif;
+	font-family: 'Rock Salt', cursive; -*/
+body{
+    text-align: center;
+    height:100%;
+    width:100%;
+}
+
+main{
+    margin: auto 200px auto 200px;
+    vertical-align: middle;
+    display: inline-block;
+
+}
+
+p{
+	font-family: 'Manjari', sans-serif;
+	font-size: 1em;
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+    text-transform: uppercase;
+    color:#fff;
+}
+
+em{
+	font-family: 'Rock Salt', cursive;
+	font-size: 14px;
+    color:#fff;
+}
+
+h1 {
+    font-family: 'Rock Salt', cursive;
+    color:#000;
+    font-size: 3em;
+}
+
+.container{
+    background:#e0e0eb;
+    height:1000px;
+    padding: 15px 0px;
+    width:200px;
+    float:left;
+}
+
+.column{
+    background:#e0e0eb;
+    height: 1000px;
+    width:200px;
+    padding: 15px 0px;
+    float:left;
+}
+
+.square{
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+}
+
+/* blue */
+.blue{
+    background: #6666cc;
+}    
+
+/* pink */
+.pink{
+    background:#cc00cc;
+}
+
+/* orange */
+.orange{
+    background:#e60000;
+}
+
+/* green */
+.green{
+    background:#59b300;
+}        
